@@ -1,0 +1,20 @@
+# Entorno y secretos
+.env
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Índice vectorial generado (se reconstruye desde el PDF, no hace falta versionarlo)
+data/faiss_index/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# SO / editor
+.DS_Store
+.vscode/
+.idea/
