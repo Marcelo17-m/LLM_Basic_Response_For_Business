@@ -4,6 +4,13 @@ Por diferentes problemas presentados con oracle cloud se realizo el deploy en st
 
 https://lllmairepofromaluramarcelo.streamlit.app/
 
+# Video Recreativo
+
+Link del drive donde se grabo el video para mostrar que funciona correctamente:
+
+https://drive.google.com/file/d/1SKM4UXwrrSGIly_Dpc0iK8K7C-3eyC97/view?usp=sharing
+
+
 
 
 
