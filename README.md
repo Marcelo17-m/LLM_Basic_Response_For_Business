@@ -1,3 +1,12 @@
+# Deploy
+
+Por diferentes problemas presentados con oracle cloud se realizo el deploy en streamlit en este link
+
+https://lllmairepofromaluramarcelo.streamlit.app/
+
+
+
+
 #  Agente de IA para Documentos Internos
 
 Agente conversacional que responde preguntas en lenguaje natural sobre documentos internos
